@@ -1,10 +1,10 @@
 #  Israel GeoInsights
 
+![alt text](images/banner.webp)
+
 ## Purpose Statement
 
 Experimentary repository; using LLMs to analyse geopolitical developments in Israel & the Middle East
-
-## Use Case Statement
 
 ## Author
 
