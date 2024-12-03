@@ -1,6 +1,8 @@
 #  Israel GeoInsights
 
-![alt text](images/banner.webp)
+ ![alt text](images/israel-geoinsights.png)
+
+![Work In Progress](https://img.shields.io/badge/Work%20In%20Progress-yellow)
 
 ## Purpose Statement
 
